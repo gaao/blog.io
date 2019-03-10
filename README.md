@@ -1,2 +1,2 @@
-# Resume.io
+# Resume
 简历
