@@ -1,2 +1,2 @@
-# blog.io
-个人博客
+# Resume
+简历
